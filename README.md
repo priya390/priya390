@@ -1,4 +1,6 @@
-![MasterHead](images/Banner.jpg)
+<div align="center">
+  <img src="images/Banner.jpg" alt="Banner" width="700px" height="300px" />
+</div>
 
 ## <p align="center"> Hola, Welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
 
