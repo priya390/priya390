@@ -71,9 +71,13 @@
   <a href="https://atom.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priya390&show_icons=true&locale=en&layout=compact" alt="priya390" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priya390&show_icons=true&locale=en&layout=compact" alt="priya390" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priya390&show_icons=true&locale=en" alt="priya390" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priya390&show_icons=true&locale=en" alt="priya390" />
+</p>
 
 <div align="center">
 
